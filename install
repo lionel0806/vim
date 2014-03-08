@@ -1,0 +1,6 @@
+#!/bin/sh
+
+cp -rf vim-scripts /usr/share/
+cp .vimrc ~/
+
+exit 0
